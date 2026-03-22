@@ -1,8 +1,9 @@
 **VIT BHOPAL UNIVERSITY**
+Bhopal, Madhya Pradesh
 (Sep ’23 - Apr ’27)
 B.Tech CSE( specialization in AI&ML) 
 CGPA : 9.10	
-Bhopal, Madhya Pradesh
+
 
 **Sacred Heart Convent School**
 Chandausi, Uttar Pradesh
