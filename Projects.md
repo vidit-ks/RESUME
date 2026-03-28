@@ -14,6 +14,13 @@
 •	Built backend APIs for appointment scheduling and data access.
 
 
+**FairChance** | React, Node.js, Express, Supabase, Razorpay | Mar ’26
+[Live](https://fair-chance-nine.vercel.app/)
+• Designed and developed a full-stack subscription-based platform with user and admin workflows.
+• Integrated Razorpay payment gateway with secure payment verification and webhook-based activation.
+• Implemented dual subscription flow with automated payments and manual admin approval system.
+• Built role-based dashboards with score management (latest 5 logic) and real-time subscription tracking.
+
 
 
 
